@@ -1,6 +1,7 @@
-![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
-- 👋 Hi, I’m Rutuja
+![Profile View Counter](https://komarev.com/ghpvc/?username=hrutuja-m)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url =https://github.com/hrutuja-m/AI-Basketball-Analysis)
+-![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More ) 👋 Hi, I’m Rutuja
 - 👀 I’m interested in AI/ML as well as cloud 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects 
