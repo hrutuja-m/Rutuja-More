@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Your_GitHub_Repository_Name)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Google-Facilitator-Program-Solutions )
