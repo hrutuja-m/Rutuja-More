@@ -1,7 +1,6 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=56C5E3&background=170B0E00&center=true&width=440&height=55&lines=Hello+there!+Welcome+to+my+profile.)](https://git.io/typing-svg)
-- 👀 I’m interested in AI/ML as well as cloud 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=56C5E3&background=170B0E00&center=true&width=435&height=55&lines=%F0%9F%91%8BHello+there!+Welcome+to+my+profile.)](https://git.io/typing-svg)
+- 👀 I’m interested in AI/ML as well as cloud. 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
