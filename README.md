@@ -1,4 +1,4 @@
-<h1 style:"color:">Welcome to Rutuja's profile!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  ![linkedin]([https://user-images.githubusercontent.com/61185196/188197351-429d8490-757e-40b6-8962-5a97bdfc5b02.png](https://www.linkedin.com/in/rutuja-more-49a9aa206/)
+<h1 style:"color:">Welcome to Rutuja's profile!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
