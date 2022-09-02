@@ -5,6 +5,7 @@
 - 📫 How to reach me
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
+   #📊GitHub Stats
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true)
 
