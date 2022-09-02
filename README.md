@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C5F7&background=170B0E00&center=true&width=435&lines=Hello+there!+Welcome+to+my+profile.)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=56C5E3&background=170B0E00&center=true&width=440&height=55&lines=Hello+there!+Welcome+to+my+profile.)](https://git.io/typing-svg)
 - 👀 I’m interested in AI/ML as well as cloud 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects 
