@@ -1,4 +1,4 @@
-<h1 align:"center">Welcome to Rutuja's profile!</h1> 
+<h1 style:"color:">Welcome to Rutuja's profile!</h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=009B7D&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 <a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&theme=tokyonight&repo=AI-Basketball-Analysis"/>
 </a>  
 
-![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=material-palenight)
+![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=tokyonight_duo)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
