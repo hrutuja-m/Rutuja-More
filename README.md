@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=gotham)
 
-<a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=AI-Basketball-Analysis"/>
+<a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&theme=gotham&repo=AI-Basketball-Analysis"/>
 </a>  
 
 ![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=gotham)
