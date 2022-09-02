@@ -12,12 +12,12 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight_duo)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=gotham)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=tokyonight_duo)
 
-<a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&theme=gotham&repo=AI-Basketball-Analysis"/>
+<a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&theme=tokyonight_duo&repo=AI-Basketball-Analysis"/>
 </a>  
 
-![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=gotham)
+![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=tokyonight_duo)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
