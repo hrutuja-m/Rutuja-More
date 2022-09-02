@@ -13,8 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/hrutuja-m/SAGE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=SAGE
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=SAGE" />
 </a>
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
