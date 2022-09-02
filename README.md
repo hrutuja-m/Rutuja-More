@@ -1,4 +1,4 @@
-<h1><center>Welcome to Rutuja's profile!</center></h1> 
+<h1 align:"center">Welcome to Rutuja's profile!</h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=009B7D&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
 
