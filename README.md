@@ -13,12 +13,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact)
 
 <a href="https://github.com/hrutuja-m/AI-Basketball-Analysis">
+   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=AI-Basketball-Analysis" />
-</a>
-
-<!--  <a href="https://github.com/hrutuja-m/SAGE">
+</a><!--  <a href="https://github.com/hrutuja-m/SAGE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=SAGE" />
 </a>  -->
+
 
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
