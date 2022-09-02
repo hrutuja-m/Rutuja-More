@@ -8,7 +8,7 @@
    
  📊GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact)
 
@@ -20,7 +20,7 @@
 </a>  -->
 
 
-[![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=dracula)]
+![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=react-dark)
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hrutuja-m)
