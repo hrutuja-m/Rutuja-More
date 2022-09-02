@@ -15,8 +15,11 @@
 <a href="https://github.com/hrutuja-m/AI-Basketball-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=AI-Basketball-Analysis" />
 </a>
+
 <!--  <a href="https://github.com/hrutuja-m/SAGE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=SAGE" />
 </a>  -->
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )![Profile View Counter](https://komarev.com/ghpvc/?username=hrutuja-m)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=hrutuja-m)
