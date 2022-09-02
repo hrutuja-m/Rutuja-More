@@ -10,7 +10,7 @@
    
  <h2>📊GitHub Stats</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=Customizing stats card)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact)
 
