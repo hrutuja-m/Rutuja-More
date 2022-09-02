@@ -1,4 +1,5 @@
-<h1 style:"color:">Welcome to Rutuja's profile!</h1>  <a href="https://www.flaticon.com/authors/riajulislam" title="riajulislam"> riajulislam </a> from <a href="https://www.flaticon.com/" title="Flaticon"></a>
+<h1 style:"color:">Welcome to Rutuja's profile!</h1>  <a href="![linkedin](https://user-images.githubusercontent.com/61185196/188197351-429d8490-757e-40b6-8962-5a97bdfc5b02.png)
+"></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=B4A4DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)
 
