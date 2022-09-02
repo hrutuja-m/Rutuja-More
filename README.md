@@ -1,6 +1,6 @@
 <h1><center>Welcome to Rutuja's profile!</center></h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=3D9A71&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=2E7455&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning python 
