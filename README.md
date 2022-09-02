@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=9E93DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)
 
 - 🌱 I’m currently learning python 
-- 📫 How to reach me
+- 📫 Find me here
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
    
