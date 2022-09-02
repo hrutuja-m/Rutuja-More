@@ -17,7 +17,7 @@
 <a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=AI-Basketball-Analysis"/>
 </a>  
 
-![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=react-dark)
+![Rutuja's github activity graph](https://activity-graph.herokuapp.com/graph?username=hrutuja-m&theme=gotham)
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
