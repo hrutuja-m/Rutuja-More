@@ -1,6 +1,4 @@
-<h1 style:"color:">Welcome to Rutuja's profile!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<h1 style:"color:">Hello there! I'm Rutuja  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=9E93DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)
 
