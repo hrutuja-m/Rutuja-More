@@ -1,7 +1,7 @@
-<h1 style:"color:">Welcome to Rutuja's profile!</h1>  <a href="![linkedin](https://user-images.githubusercontent.com/61185196/188197351-429d8490-757e-40b6-8962-5a97bdfc5b02.png)
-"></a>
+<h1 style:"color:">Welcome to Rutuja's profile!</h1>  ![linkedin](https://user-images.githubusercontent.com/61185196/188197351-429d8490-757e-40b6-8962-5a97bdfc5b02.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=B4A4DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=9E93DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)
 
 - 🌱 I’m currently learning python 
 - 📫 How to reach me
