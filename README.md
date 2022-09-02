@@ -1,6 +1,6 @@
 <h1 style:"color:">Welcome to Rutuja's profile!</h1> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=4E7FDF&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&color=B4A4DC&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently learning python 
@@ -10,7 +10,7 @@
    
  <h2>📊GitHub Stats</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=tokyonight)
 
