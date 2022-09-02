@@ -10,7 +10,7 @@
    
  <h2>📊GitHub Stats</h2>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight_duo)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=gotham)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=tokyonight_duo)
 
