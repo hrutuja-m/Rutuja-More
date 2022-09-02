@@ -1,8 +1,8 @@
-<h1><center>Welcome to Rutuja's profile!</center></h1> 
+<h1>                                                    <center>Welcome to Rutuja's profile!</center></h1> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+interested+in+AI%2FML.;Always+learning!;Cloud+Enthusiast)](https://git.io/typing-svg)
 
-- 👀 I’m interested in AI/ML as well as cloud. 
+
 - 🌱 I’m currently learning python 
 - 📫 How to reach me
 -  hrutuja.more@outlook.com OR
