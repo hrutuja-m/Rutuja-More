@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning python 
 - 📫 Find me here
 
-[<img src="![image](https://user-images.githubusercontent.com/61185196/188275684-abafae05-8d1a-49be-9f37-95a54fbab5fa.png)
-" width="250"/>](https://user-images.githubusercontent.com/61185196/188275684-abafae05-8d1a-49be-9f37-95a54fbab5fa.png)
+[![linkedin](![image](https://user-images.githubusercontent.com/61185196/188275576-ca5725ae-e458-41e3-bde5-77258d7115ed.png))](https://www.linkedin.com/in/rutuja-more-49a9aa206)
+[![twitter](!![image](https://user-images.githubusercontent.com/61185196/188275837-4e60e1ec-ff95-40f7-9009-e7fc3ff142a3.png))]
+
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
    
