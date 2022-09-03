@@ -6,7 +6,7 @@
 - 📫 Find me here
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-more-49a9aa206)
-[![twitter](![image](https://user-images.githubusercontent.com/61185196/188275837-4e60e1ec-ff95-40f7-9009-e7fc3ff142a3.png))](https://www.twitter.com/hrutuja13)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/hrutuja13)
 
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
