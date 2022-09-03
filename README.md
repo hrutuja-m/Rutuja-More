@@ -10,7 +10,7 @@
 
 <!-- icons with padding -->
 
-[1.1]: ![image]("https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png" width="30px")
+[1.1]: (https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png width="30px")
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]:
 
