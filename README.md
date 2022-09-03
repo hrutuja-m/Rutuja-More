@@ -4,15 +4,15 @@
 
 - 🌱 I’m currently learning python 
 - 📫 Find me here
-![Linkedin](https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png)][1]
+![Linkedin](https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png)][Linkedin]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
 <!-- icons with padding -->
 
-[1.1]: (https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png width="30px")
+[1.1]: (https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png style:width="30px")</img>
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]:
+![Linkedin]: <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons" width="30px">Linkedin</a>
 
 [1]: https://www.linkedin.com/in/rutuja-more-49a9aa206
 [2]: http://www.facebook.com/sednaoui
