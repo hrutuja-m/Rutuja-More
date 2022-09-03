@@ -10,7 +10,7 @@
 
 <!-- icons with padding -->
 
-[1.1]:C:\Users\Asus\Desktop\Resume\linkedin
+[1.1]: ![image](https://user-images.githubusercontent.com/61185196/188268620-f4d45a64-3441-4769-9046-439b816653b3.png)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]:
 
