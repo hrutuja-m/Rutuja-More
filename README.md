@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python 
 - 📫 Find me here
-<img src="[[YOUR_VERCEL_PROJECT_DOMAIN](https://www.linkedin.com/in/rutuja-more-49a9aa206/)]/[METHOD]?username=[rutuja-more]" />
+<img src="[[(https://www.linkedin.com/in/rutuja-more-49a9aa206/)]/[METHOD]?username=[rutuja-more]" />
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
    
