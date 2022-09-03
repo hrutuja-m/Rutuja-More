@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning python 
 - 📫 Find me here
-<img src="[[(https://www.linkedin.com/in/rutuja-more-49a9aa206/)]/user?username=rutuja-more" />
+[![linkedin](![image](https://user-images.githubusercontent.com/61185196/188274715-64ed025a-3b86-433f-9b92-0c9d3c00f219.png)
+)](https://www.linkedin.com/in/rutuja-more-49a9aa206)
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
    
