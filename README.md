@@ -10,7 +10,7 @@
 
 <!-- icons with padding -->
 
-[1.1]: http://www.w3.org/2000/svg
+[1.1]:C:\Users\Asus\Desktop\Resume\linkedin
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]:
 
