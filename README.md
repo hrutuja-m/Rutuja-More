@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning python 
 - 📫 Find me here
-![image](https://user-images.githubusercontent.com/61185196/188268748-5fddbb82-ac36-48c5-87b0-5dda6ecfffe3.png)](https://www.linkedin.com/in/rutuja-more-49a9aa206)
+![Linkedin](https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png)][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
 <!-- icons with padding -->
 
-[1.1]: ![image](https://user-images.githubusercontent.com/61185196/188268620-f4d45a64-3441-4769-9046-439b816653b3.png)
+[1.1]: ![image](https://user-images.githubusercontent.com/61185196/188269114-7717b97a-c841-4c26-b7a9-39e6eb9c622b.png)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]:
 
