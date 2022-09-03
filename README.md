@@ -7,7 +7,7 @@
 
 [![linkedin]("C:\Users\Asus\Desktop\Resume\linkedin.png")](https://www.linkedin.com/in/rutuja-more-49a9aa206)
 [![twitter](![image](https://user-images.githubusercontent.com/61185196/188275837-4e60e1ec-ff95-40f7-9009-e7fc3ff142a3.png))](https://www.twitter.com/hrutuja13)
-
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
 -  hrutuja.more@outlook.com OR
    https://www.linkedin.com/in/rutuja-more-49a9aa206
    
