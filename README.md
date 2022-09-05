@@ -25,6 +25,6 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=hrutuja-m/Rutuja-More )
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=hrutuja-m)
-  <a href="https://github.com/hrutuja-m/SAGE">
+<!--  <a href="https://github.com/hrutuja-m/SAGE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&repo=SAGE" />
-</a>  
+</a>  -->
