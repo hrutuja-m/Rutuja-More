@@ -8,8 +8,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutuja-more-49a9aa206)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/hrutuja13)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://get-it-started.medium.com/)
-[![google developer](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://g.dev/hrutujaa_m)
-<!---https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white --->
+[![google developer profile](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://g.dev/hrutujaa_m)
+<!---[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](
+https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white --->
 
 
    
