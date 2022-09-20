@@ -18,7 +18,7 @@ https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&log
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/hrutuja-m/AI-Basketball-Analysis"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrutuja-m&theme=tokyonight&repo=AI-Basketball-Analysis"/>
 </a>  
