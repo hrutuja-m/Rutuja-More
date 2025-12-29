@@ -16,7 +16,8 @@ https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&log
    
  **📊GitHub Stats**
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=hrutuja-m&show_icons=true&theme=tokyonight)    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hrutuja-m&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrutuja-m&layout=compact&theme=tokyonight)
 
